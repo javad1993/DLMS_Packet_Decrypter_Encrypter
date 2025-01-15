@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLMS_Packet_Decrypter_Encrypter", "DLMS_Packet_Decrypter_Encrypter.csproj", "{1942E4BD-7126-4BE9-AFA4-5860CBC6A3A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1942E4BD-7126-4BE9-AFA4-5860CBC6A3A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1942E4BD-7126-4BE9-AFA4-5860CBC6A3A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1942E4BD-7126-4BE9-AFA4-5860CBC6A3A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1942E4BD-7126-4BE9-AFA4-5860CBC6A3A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC16CD96-3D0C-414F-B21B-BF5A7F97AFE9}
+	EndGlobalSection
+EndGlobal
